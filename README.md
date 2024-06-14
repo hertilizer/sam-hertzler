@@ -1,6 +1,6 @@
 ### Introduction
 
-Hi, this website is about me. I would tell you somethings about me, but then why would I have made this website. Go to my website instead ... respectfully. Oh yeah, here's the link:
+Hi, this website is about me. I would tell you some things about me, but then isn't that the point of this website. Go to my website instead ... respectfully. Oh yeah, here's the link:
 
 ## Recommended Setup
 
